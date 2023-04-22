@@ -1,0 +1,49 @@
+.footer {
+  font-size: 11px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+
+.footer a {
+  color: hsl(228, 45%, 44%);
+  font-family: "Outfit", sans-serif;
+  text-align: center;
+}
+
+.card {
+  display: flex;
+  width: 18rem;
+  justify-content: center;
+  align-items: center;
+  margin: 100px auto 100px auto;
+  border-radius: 10px !important;
+}
+
+.card-img-top {
+  padding: 10px;
+  border-radius: 20px !important;
+}
+
+.card-title {
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+
+.card-text {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  text-align: center;
+}
+
+/* Colors
+
+- White: hsl(0, 0%, 100%)
+- Light gray: hsl(212, 45%, 89%)
+- Grayish blue: hsl(220, 15%, 55%)
+- Dark blue: hsl(218, 44%, 22%)
+
+  */
